@@ -10,11 +10,11 @@ const SuningYao = {
   ⛓️: {
     linktree: 'sny.is',
     portfolio: 'suningyao.com',
-    blog: 'blog.suningyao.com'
+    blog: 'blog..com'
   },
   📧: {
     wechat: 'ysnysn1',
-    email: 'yaosuning@gmail.com'
+    email:  cattymime0402@outlook.com
   }
   💼: (résumé) => {
     window.location.replace('https://resume.suningyao.com')
